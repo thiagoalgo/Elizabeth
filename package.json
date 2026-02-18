@@ -1,0 +1,25 @@
+{
+  "name": "elizabeth",
+  "version": "1.0.0",
+  "description": "[![Generic badge](https://img.shields.io/badge/course%20available%3F-yes-green.svg)](https://shields.io/)",
+  "homepage": "https://github.com/thiagoalgo/Elizabeth#readme",
+  "bugs": {
+    "url": "https://github.com/thiagoalgo/Elizabeth/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagoalgo/Elizabeth.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.18",
+    "tailwindcss": "^4.1.18"
+  }
+}
